@@ -1,0 +1,112 @@
+{
+  "versoes": [
+    {
+      "versao": "9.0.0",
+      "notas": "LukeOptimizer 9.0.0 — gratuito de verdade, Otimização total e nada rodando sozinho\n\n• Gratuito de verdade: sem conta, chave, pagamento, teste ou limite. Baixou, abriu, usou. Todas as funções estão liberadas e não há anúncios.\n• Otimização total no Início: o app lê o estado do Windows, mostra o que muda, pede uma confirmação só, confere cada ajuste depois de aplicar e deixa desfazer tudo num clique. São 14 ajustes seguros (jogos, tarefas agendadas de coleta e privacidade); serviços, remoção de apps, políticas, proteções, rede, energia, aparência e acessibilidade nunca entram.\n• Resultado honesto por ajuste: aplicado e verificado, já estava configurado, não aplicável, ignorado por escolha, permissão negada, falha, resultado parcial, aguardando reinicialização ou não foi possível verificar, sempre com o motivo.\n• Menu em seis áreas: Início, Otimizar, Personalizar, Ferramentas, Histórico e Configurações. Nenhuma página foi removida.\n• O app abre sem pedir administrador. O Windows pede permissão só na hora de aplicar o que precisa; se você negar, nada muda.\n• Nada roda sozinho sem você ligar: bandeja ao fechar, RAM automática, atalhos de teclado, Discord e buscas em segundo plano vêm desligados para quem instala agora. Quem atualiza vê uma vez a lista do que está ligado e pode desligar tudo.\n• Atualizações por um aviso assinado no site: o app confere a assinatura e o SHA256 antes de instalar e nunca obriga a atualizar.\n• Faxina rápida, bandeja, mini janela e atalhos apagam só temporários que o Windows recria. Despejos de falha, caches de shader e de navegador e downloads do Windows Update ficam na página Limpeza, com prévia.\n• Backup das configurações e dos jogos em arquivo seu, e relatório para o suporte que você lê na tela antes de copiar ou salvar.\n• Sem nota inventada: a Nota do PC saiu do menu e do Início; o Início mostra leituras reais do PC ou Indisponível.",
+      "publicada_em": 1793890800,
+      "url": "https://lukeoptimizer.online/downloads/LukeOptimizer-9.0.0.exe",
+      "notas_en": "LukeOptimizer 9.0.0 — truly free, Total optimization and nothing running by itself\n\n• Truly free: no account, key, payment, trial or limit. Download, open, use. Every feature is unlocked and there are no ads.\n• Total optimization on Home: the app reads the state of Windows, shows what changes, asks for a single confirmation, checks each setting after applying it and lets you undo everything in one click. It covers 14 safe settings (games, scheduled data-collection tasks and privacy); services, app removal, policies, protections, network, power, appearance and accessibility are never included.\n• An honest result for each setting: applied and verified, already set, not applicable, skipped by choice, permission denied, failed, partial result, waiting for a restart or could not be verified, always with the reason.\n• Menu in six areas: Home, Optimize, Customize, Tools, History and Settings. No page was removed.\n• The app opens without asking for administrator. Windows asks for permission only when applying what needs it; if you decline, nothing changes.\n• Nothing runs by itself unless you turn it on: close to tray, automatic RAM, keyboard shortcuts, Discord and background checks come off for new installs. If you are updating, you see the list of what is on once and can turn everything off.\n• Updates through a signed notice on the website: the app checks the signature and the SHA256 before installing and never forces an update.\n• Quick sweep, tray, mini window and shortcuts delete only temporary files that Windows recreates. Crash dumps, shader and browser caches and Windows Update downloads stay on the Cleanup page, with a preview.\n• Settings and game backups in a file you keep, and a support report you read on screen before copying or saving.\n• No made-up score: the PC score left the menu and Home; Home shows real PC readings or Unavailable."
+    },
+    {
+      "versao": "8.9.1",
+      "notas": "LukeOptimizer 8.9.1\n\n• Interface refinada, com melhorias nos ícones, tema escuro e animações.\n• SmartScan com análises e resultados mais precisos.\n• Correções no recurso Desfazer das otimizações.\n• Melhorias nos backups e na restauração do autoexec do CS2.\n• Correções na limpeza do Windows e na apresentação dos resultados.\n• Atualizador mais estável.\n• Melhorias no login e na validação de licenças.\n• Animações respeitam as preferências de movimento do Windows.\n• Correções gerais de estabilidade.",
+      "publicada_em": 1792042265,
+      "notas_en": "LukeOptimizer 8.9.1\n\n• Refined interface with improved icons, dark theme and animations.\n• More accurate SmartScan analysis and results.\n• Fixes to Undo after optimization.\n• Improved CS2 autoexec backups and restoration.\n• Fixes to Windows cleanup and how results are reported.\n• More reliable app updates.\n• Improvements to sign-in and license validation.\n• Animations respect the Windows motion preferences.\n• General stability fixes."
+    },
+    {
+      "versao": "8.6.0",
+      "notas": "• Abre mais rápido\n• Relatórios, avisos, erros e resultados no seu idioma (mais de 1.700 frases novas traduzidas)\n• Modo jogo automático não liga mais sozinho com Wallpaper Engine, OBS, Bongo Cat ou Lossless Scaling abertos\n• Troca de DNS (Cloudflare, Google, Quad9, OpenDNS, AdGuard) voltou a funcionar\n• Desinstalar programas não confunde mais pastas de saves e mundos (como .minecraft) com sobras\n• Licença: o plano Mensal vencido não perde a licença guardada e, depois de renovar, é só clicar em \"Verificar de novo\"\n• Liberar RAM pelo atalho ou pela bandeja agora libera de verdade\n• Correções em Restaurar, ajustes do Windows, atualização automática e manutenção",
+      "publicada_em": 1791656950
+    },
+    {
+      "versao": "8.5.1",
+      "notas": "• Espanhol, francês, alemão e russo completos: mais de 500 textos que ainda apareciam em inglês agora estão no seu idioma\n• Os 6 atalhos novos vêm desligados e não roubam mais Ctrl+Shift+N, R e F de outros programas\n• Atualização obrigatória não fecha mais o app sem mostrar o aviso, e a tela de licença ganhou \"Baixar no site\"\n• Automações: a regra diária não repete mais sem parar, e cada tempo de \"PC parado\" funciona\n• Desligar quando o download terminar espera 10 minutos sem tráfego\n• Botões e textos que cabem em todos os idiomas, e conquistas que acompanham a letra 110% e 120%\n• Abertura com barra animada, menu lateral que rola até a página aberta e aviso quando um atalho já é usado por outro programa",
+      "publicada_em": 1791478580
+    },
+    {
+      "versao": "8.5.0",
+      "notas": "• Aparência do seu jeito: cor de destaque, tema automático e preto OLED, fonte, cantos e fundo do Painel com o seu nome\n• Primeira abertura que configura o app para você e dica do dia\n• Painel personalizável, mini janela sempre visível e modos do PC com 1 clique\n• Automações (\"quando abrir um jogo → Modo jogo\"), desligar o PC depois e aviso de app comilão\n• Central de avisos no sino e avisos no estilo do Windows\n• Busca Ctrl+K que roda ações, atalhos de teclado que você escolhe e F1 com todos eles\n• Mira na tela e modo streamer que esconde seus dados na live\n• Placar da partida para compartilhar, nível e XP\n• Cartão \"Meu plano\" e arquivo .luke para levar suas configurações para outro PC\n• Dicas ao passar o mouse em cada botão\n• App também em espanhol, francês, alemão e russo",
+      "publicada_em": 1791346521
+    },
+    {
+      "versao": "8.4.0",
+      "notas": "Painel virou central: 11 ações de um clique (liberar RAM, temporários, DNS, Lixeira, shaders, modo jogo…) e as ferramentas demoradas separadas\nFaxina em 1 clique: fecha apps leves, libera RAM, apaga temporários e limpa o DNS, e mostra quanto liberou\nCada ação mostra no próprio cartão o que fez e o uso de CPU, RAM, placa e temperatura fica ao vivo no topo\nAções rápidas também na bandeja perto do relógio, sem abrir o app\nVisual novo, mais limpo: cartões sem brilho, bordas leves e botão principal em azul sólido\nMenu lateral em grupos que abrem e fecham: só o que você usa fica aberto, e o app lembra",
+      "publicada_em": 1791257423
+    },
+    {
+      "versao": "8.3.1",
+      "notas": "• Configuração automática dos jogos certa em notebook e PC com placa integrada + dedicada\n• Checkup não acusa mais memória lenta quando o BIOS informa a velocidade em MHz\n• Programas suspeitos: mais rápido e sem apontar o próprio app nem ferramentas conhecidas\n• Modo noite sai da economia em até 1 minuto quando um jogo abre, mesmo sem o Modo jogo\n• Página Drivers rola em telas menores e textos em inglês completos",
+      "publicada_em": 1791237883
+    },
+    {
+      "versao": "8.3.0",
+      "notas": "• Seu PC hoje: nota, checkup, temperatura e o próximo passo no topo do Painel\n• Respostas na hora no Suporte para as dúvidas mais comuns; se não resolver, vai para o suporte\n• Configuração dos jogos automática para a sua placa de vídeo (CS2, VALORANT e Fortnite)\n• Modo campeonato: tudo no máximo para a ranqueada e um clique volta ao normal\n• O que o app mudou: veja tudo por data e desfaça tudo de uma vez\n• Aviso antes de o SSD falhar e teste de memória do Windows (Saúde do disco)\n• Programas suspeitos: encontra falsos boosters de FPS e cheats com vírus\n• Drivers de chipset, áudio e rede pelo fabricante oficial, e resumo da semana na bandeja",
+      "publicada_em": 1791072192
+    },
+    {
+      "versao": "8.2.0",
+      "notas": "• Checkup do PC gamer: confere memória (dual channel e XMP), Hz do monitor, slot da placa de vídeo, Resizable BAR, disco e mais, e conserta com um clique\n• Aviso quando o monitor está num Hz menor do que aguenta (ex.: 144 Hz rodando em 60)\n• O que fazer upgrade: a peça que mais vai dar FPS no seu PC\n• Analisador de Wi-Fi: mostra o canal mais livre para o seu roteador\n• Perfil por jogo: o Modo jogo usa as escolhas de cada jogo sozinho (Perfis de jogos)\n• Modo noite: economia de energia fora do horário de jogo (Configurações)\n• Backup das configurações dos jogos na sua conta (CS2, VALORANT, Fortnite e mais)\n• Limpar todos os navegadores de uma vez, incluindo o cache de sites offline",
+      "publicada_em": 1791066960
+    },
+    {
+      "versao": "8.1.0",
+      "notas": "• Núcleos só pro jogo: o jogo fica nos melhores núcleos do processador (Modo jogo)\n• Preset competitivo de CS2, VALORANT e Fortnite com um clique\n• O relatório da partida agora diz o que causou os engasgos\n• Teste do mouse, saúde da bateria e gráfico de temperaturas\n• Desinstalar agora limpa as sobras do programa\n• Busca rápida Ctrl+K, o PC no celular pelo Wi-Fi e tela cheia de jogo (F11)\n• O app abre bem mais rápido\n• Agora dá para dar o LukeOptimizer de presente",
+      "publicada_em": 1791062462
+    },
+    {
+      "versao": "8.0.0",
+      "notas": "• Histórico de FPS: gráfico de cada jogo mostrando se o PC está melhorando ou piorando\n• Assistente: 3 perguntas e o app monta a otimização ideal para você\n• Atualizar tudo: atualiza todos os programas de uma vez\n• Verificar e reparar o Windows (ferramentas oficiais da Microsoft)\n• Libera memória sozinho quando passa de 85% (sem jogo aberto)\n• Aviso de programa suspeito escondido ou novo na inicialização\n• Resumo do mês e widget no canto da tela com CPU, placa de vídeo, RAM e ping\n• Novo plano Mensal: pague o Pix de novo e a mesma chave continua valendo",
+      "publicada_em": 1791050690
+    },
+    {
+      "versao": "7.9.0",
+      "notas": "• Nota do PC de 0 a 100, com o que fazer para subir, e conquistas\n• Suporte dentro do app: mande sua dúvida com o diagnóstico do PC\n• Detector de gargalo no relatório da partida\n• Limpar cache de shaders com um clique\n• Modo stream (OBS) e atalhos Ctrl+Shift+G e Ctrl+Shift+Q\n• Rede para jogos: prioridade, Wi-Fi gamer, quem usa a internet e teste longo de perda\n• Temperatura no ícone da bandeja\n• Compare seu Benchmark com PCs iguais ao seu",
+      "publicada_em": 1791044560
+    },
+    {
+      "versao": "7.8.0",
+      "notas": "• Modo silencioso: PC mais frio e quieto fora dos jogos\n• Limitador de FPS por jogo (placas NVIDIA)\n• Checkup de RAM e disco com resposta simples: BOM, ATENÇÃO ou RUIM\n• Tema claro e letra maior\n• Ping ao vivo no monitor na tela\n• Inicialização mais rápida: veja o que atrasa o Windows\n• Ponto de restauração automático toda semana\n• Avisos da equipe direto no app",
+      "publicada_em": 1791039823
+    },
+    {
+      "versao": "7.7.0",
+      "notas": "• Teste grátis de 3 dias direto no app\n• Indique e ganhe: seu amigo ganha 10% de desconto e você ganha 7 dias\n• Relatório depois da partida: FPS médio, 1% low e engasgos\n• Aviso quando sair driver de vídeo novo\n• Manutenção semanal no dia e horário que você escolher, avisando se o Windows desfez algum ajuste\n• Atualizações baixam sozinhas e instalam quando você fecha o app\n• Card \"antes e depois\" do Benchmark para postar nas redes",
+      "publicada_em": 1791027449
+    },
+    {
+      "versao": "7.6.0",
+      "notas": "• Teste de velocidade do DNS em Rede: mede de verdade e já escolhe o mais rápido\n• Modo jogo reconhece os jogos instalados (Steam, Epic, GOG, Ubisoft, Battle.net e Riot)\n• Painel mostra o que o app já fez neste PC\n• Aviso quando a licença estiver perto de vencer, com botão para renovar\n• Relatório de erros (só com sua permissão) para corrigirmos mais rápido\n• Inglês completo em todo o app",
+      "publicada_em": 1791016308
+    },
+    {
+      "versao": "7.5.1",
+      "notas": "Correções: textos em inglês, telas em notebooks (1280/1366), Lixeira, desinstalador e alerta de temperatura.",
+      "publicada_em": 1791004815
+    },
+    {
+      "versao": "7.5.0",
+      "notas": "Timer de 0,5 ms no Modo jogo, modo MSI, Ping dos jogos, O que ocupa espaço, Arquivos duplicados, alertas na bandeja e backup das configurações na conta.",
+      "publicada_em": 1790999816
+    },
+    {
+      "versao": "7.4.0",
+      "notas": "Versão 7.4.0\n• Modo jogo mais forte: enquanto você joga, o app pode usar o plano de energia de desempenho e pausar indexação, SysMain, telemetria e Otimização de Entrega. Tudo volta ao normal quando o jogo fecha.\n• Novas opções avançadas: resolução do timer (Windows 11) e Fault Tolerant Heap.\n• O app abre mais rápido.\n• Nova página \"Programas instalados\": veja tudo o que está no PC, com tamanho e data, e desinstale com um clique.\n• Novo botão \"Relatório para o suporte\" na Ajuda: copia as informações do PC, sem dados pessoais, para você colar na conversa com o suporte.",
+      "publicada_em": 1790993562
+    },
+    {
+      "versao": "7.3.1",
+      "notas": "App mais fácil de entender: guia \"Comece por aqui\", menu reorganizado, explicação em cada tela e ajuda completa.",
+      "publicada_em": 1790895817
+    },
+    {
+      "versao": "7.3.0",
+      "notas": "Visual novo, Remoção de vírus (Defender + scanners de segunda opinião), 54 apps para instalar, novos ajustes de desempenho e correções.",
+      "publicada_em": 1790725522
+    },
+    {
+      "versao": "7.2.0",
+      "notas": "• Atualização automática pelo próprio app\n• Correções e melhorias",
+      "publicada_em": 1790718529
+    }
+  ]
+}
